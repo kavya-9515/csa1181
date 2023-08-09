@@ -21,21 +21,49 @@
 
 
 book bank management
+usecase
 ![image](https://github.com/kavya-9515/csa1181/assets/115332862/0c2cb0c0-c09b-4065-b1ac-b452f1c22103)
 
+class
 ![image](https://github.com/kavya-9515/csa1181/assets/115332862/fe83c468-c442-4024-a22c-3a3f28140c30)
 
-
+sequence
 ![image](https://github.com/kavya-9515/csa1181/assets/115332862/befc66f6-0dda-4241-bf68-b75e291c1055)
 
+collaboration
 ![image](https://github.com/kavya-9515/csa1181/assets/115332862/f8b2bad3-4e6a-4c4e-b312-2d21a67b3612)
 
+activity
 ![image](https://github.com/kavya-9515/csa1181/assets/115332862/c6ae55ec-0db0-4242-aeb2-3a4c7322d1aa)
 
-
+state
 ![image](https://github.com/kavya-9515/csa1181/assets/115332862/580dea54-cd70-4ef9-b199-da286a6e67a0)
 
+component
+![image](https://github.com/kavya-9515/csa1181/assets/115332862/60333d77-ce9f-4be0-9acf-d31640d346c0)
 
+deployment
+![image](https://github.com/kavya-9515/csa1181/assets/115332862/8fe40898-2afc-4eca-b076-d5554b8876ff)
+
+package
+![image](https://github.com/kavya-9515/csa1181/assets/115332862/6883ea90-4a5c-4ca4-9375-96bbf9e3fcee)
+
+
+
+exam registration
+usecase
+![image](https://github.com/kavya-9515/csa1181/assets/115332862/a2bf5d56-b367-4646-80cf-632926e696ef)
+
+class
+![image](https://github.com/kavya-9515/csa1181/assets/115332862/87fad48e-7a75-4c13-8e5e-abab43739c0d)
+
+sequence
+
+
+activity
+![image](https://github.com/kavya-9515/csa1181/assets/115332862/22e892a5-bae5-44d6-b3ec-4c68bce1215a)
+
+state
 
 
 
