@@ -50,20 +50,6 @@ package
 
 
 
-exam registration
-usecase
-![image](https://github.com/kavya-9515/csa1181/assets/115332862/a2bf5d56-b367-4646-80cf-632926e696ef)
-
-class
-![image](https://github.com/kavya-9515/csa1181/assets/115332862/87fad48e-7a75-4c13-8e5e-abab43739c0d)
-
-sequence
-
-
-activity
-![image](https://github.com/kavya-9515/csa1181/assets/115332862/22e892a5-bae5-44d6-b3ec-4c68bce1215a)
-
-state
 
 
 
